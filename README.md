@@ -16,11 +16,6 @@ VGG Image Annotator (VIA)是一款开源的图像标注工具，由牛津大学�
 
 ![](assets/step-0001.png)
 
-![](assets/step-0002.png)
-
-![](assets/step-0003.png)
-
-![](assets/step-0004.png)
 
 ## VIA 使用步骤 (以低俗图像识别项目为例)
 
