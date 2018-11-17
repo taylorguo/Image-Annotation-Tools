@@ -1,6 +1,6 @@
 # VIA-User-Guide
 VGG Image Annotator （VIA）图像标注工具用户指南
-<img src="./assets/VIA-guide.png" width="600">
+
 
 ## VIA 简介
 
@@ -16,9 +16,11 @@ VGG Image Annotator (VIA)是一款开源的图像标注工具，由牛津大学�
 
 ![](assets/step-001.png)
 
-<img src="./assets/step-002.png" width="200">  
-<img src="./assets/step-003.png" width="200">  
-<img src="./assets/step-004.png" width="200">  
+![](assets/step-002.png)
+
+![](assets/step-003.png)
+
+![](assets/step-004.png)
 
 ## VIA 使用步骤 (以低俗图像识别项目为例)
 
@@ -39,10 +41,10 @@ VGG Image Annotator (VIA)是一款开源的图像标注工具，由牛津大学�
 ![](assets/VIA_guide_006.png)
 
 ### 5. 开始标注
-<img src="./assets/VIA_guide_007.png" width="800"> 
+<img src="./assets/VIA_guide_007.png" width="600"> 
 
 ### 6. 标注完成，导出Json文件 ⚠️
-<img src="./assets/VIA_guide_008.png" width="800"> 
+<img src="./assets/VIA_guide_008.png" width="600"> 
 
 ### 7. 查看Json数据结构
 ![](assets/VIA_guide_009.png)
