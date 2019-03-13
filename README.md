@@ -54,4 +54,17 @@ VGG Image Annotator (VIA)是一款开源的图像标注工具，由牛津大学�
 ## [Yolov2 & Yolov3 图像标注工具GUI](https://github.com/AlexeyAB/Yolo_mark)
 
 
+### 克隆源代码, 根据平台进行编译, 生成工具
+
+    - 依赖项为 [OpenCV](https://github.com/opencv/opencv/releases) & [opencv_contrib](https://github.com/opencv/opencv_contrib/releases)
+
+
+
+=======================================
+
+## [Pixel Annotation Tool](https://github.com/abreheret/PixelAnnotationTool/releases)
+
+    - [macos](https://github.com/abreheret/PixelAnnotationTool/releases/download/v1.3.2/PixelAnnotationTool_x86_64_v1.3.2.dmg)
+
+
 
