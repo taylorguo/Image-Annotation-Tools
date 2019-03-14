@@ -56,7 +56,11 @@ VGG Image Annotator (VIA)是一款开源的图像标注工具，由牛津大学�
 
 ### 克隆源代码, 根据平台进行编译, 生成工具
 
-    - 依赖项为 [OpenCV](https://github.com/opencv/opencv/releases) & [opencv_contrib](https://github.com/opencv/opencv_contrib/releases)
+    - 依赖项为 
+
+        [OpenCV](https://github.com/opencv/opencv/releases)
+
+        [opencv_contrib](https://github.com/opencv/opencv_contrib/releases)
 
 
 
@@ -64,7 +68,7 @@ VGG Image Annotator (VIA)是一款开源的图像标注工具，由牛津大学�
 
 ## [Pixel Annotation Tool](https://github.com/abreheret/PixelAnnotationTool/releases)
 
-    - [macos](https://github.com/abreheret/PixelAnnotationTool/releases/download/v1.3.2/PixelAnnotationTool_x86_64_v1.3.2.dmg)
+    - [macos](https://github.com/abreheret/PixelAnnotationTool/releases/download/v1.3.2PixelAnnotationTool_x86_64_v1.3.2.dmg)
 
 
 
